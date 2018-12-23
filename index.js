@@ -1,4 +1,3 @@
-//importing node framework
 var express = require('express');
  
 var app = express();
